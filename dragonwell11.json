@@ -1,4 +1,3 @@
-[
     {
         "jmhVersion" : "1.32",
         "benchmark" : "com.webank.benchmarks.CounterBenchmark.atomicInteger",
@@ -16309,6 +16308,5 @@
         "secondaryMetrics" : {
         }
     }
-]
 
 
